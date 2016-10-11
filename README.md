@@ -1,5 +1,5 @@
 # MailServer
-create your own smtp server, so that you can send mail to anyone
+create your own smtp server, so that you can mail to anyone
 
 Only can send email is not enough to be a email server. You should registered for SPF, and configure
 dns reverse lookup(in ISP configure page) so that mail server like gmail will trust you and allow you to send email to it's users.
